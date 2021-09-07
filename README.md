@@ -7,7 +7,7 @@
 Há cerca de um ano venho estudando e desenvolvendo habilidades em desenvolvimento web com foco em frontend.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-bacco/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](alanabacco@gmail.com)
+<a href="mailto:alanabacco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 ### 🛠️ Linguagens e Ferramentas
 
