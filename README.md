@@ -1,10 +1,15 @@
 ## Olá, eu sou a Alana. 
 
-Graduada em Design Digital e técnica em Informática. Tenho interesse em trabalhar na área de desenvolvimento front-end.
+👩‍🎓 Estudante de Tecnologia da Informação </br>
+🎓 Formada em Design Digital e Técnico em Informática </br>
+🌎 Idiomas: Inglês intermediário
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alana-bacco/)](https://www.linkedin.com/in/alana-bacco/)
+Há cerca de um ano venho estudando e desenvolvendo habilidades em desenvolvimento web com foco em frontend.
 
-### 🛠 Linguagens e Ferramentas
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-bacco/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](alanabacco@gmail.com)
+
+### 🛠️ Linguagens e Ferramentas
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original-wordmark.svg" alt="GitHub Logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original-wordmark.svg" alt="ReactJs Logo" width="50" height="50"/>
 <!-- Icons tirados do repositório -> https://github.com/devicons/devicon/tree/master/icons -->
