@@ -1,10 +1,10 @@
 ## Olá, eu sou a Alana. 
 
-👩‍🎓 Estudante de Tecnologia da Informação </br>
-🎓 Formada em Design Digital e Técnico em Informática </br>
-🌎 Idiomas: Inglês intermediário
+👩‍💻 Trabalhando como Desenvolvedora de Software </br>
+👩‍🎓 Estudante do Eixo de Computação na UNIVESP </br>
+🎓 Formada em Design Digital e Técnica em Informática </br>
 
-Há cerca de um ano venho estudando e desenvolvendo habilidades em desenvolvimento web com foco em frontend.
+Há cerca de dois anos venho estudando e desenvolvendo habilidades em desenvolvimento web com foco em frontend.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-bacco/)
 <a href="mailto:alanabacco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
