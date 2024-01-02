@@ -1,6 +1,6 @@
 ## Olá, eu sou a Alana 👋
 
-Desenvolvedora de sofware full-stack com foco em front-end. Gosto de estudar e aprender coisas novas, e sei que desenvolvimento é uma profissão onde o estudo tem que ser constante. Estou cursando Engenharia da Computação na UNIVESP e possuo uma formação anterior em Design, o que me proporciona uma excelente compreensão de UI/UX. 
+Desenvolvedora de sofware full-stack. Gosto de estudar e aprender coisas novas, e sei que desenvolvimento é uma profissão onde o estudo tem que ser constante. Estou cursando Engenharia da Computação na UNIVESP e possuo uma formação anterior em Design, o que me proporciona uma excelente compreensão de UI/UX. 
 
 ### 📧 Entre em contato comigo em:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-bacco/)
